@@ -1,2 +1,3 @@
 # GAM
-R codes for GAM research
+R codes for GAM research 
+today
